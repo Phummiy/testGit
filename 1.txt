@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <title>Test for GITHUB MINI COURSE</title>
+     <title>Test for GITHUB MINI COURSE</title33>
 </head>
 <body></body>
